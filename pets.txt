@@ -1,0 +1,2 @@
+1,Bruno,dog,Labrador,4,Male,20.0,1
+2,lilly,dog,Labrador,3, female,15.0,1
